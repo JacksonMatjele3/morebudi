@@ -3,12 +3,7 @@
 
 ---
 
-🚀 I’m a **software developer** with a growing foundation in **cybersecurity**. I’m passionate about building real-world software solutions and I highly value protecting digital assets for organizations and people they serve by ensuring a strong security posture through the CIA triad.
-
-### 💪🏾 Strengths
-- Analytical Thinker
-- Time Management
-- Growing Technical Skills
+🚀 I’m a **software developer** with a growing foundation in **cybersecurity**. I’m passionate about building real-world software solutions and I highly value protecting digital assets for organizations and people they serve by ensuring a strong security posture through the CIA triad. _Strengths_ **: Analytical Thinker, Time Management and Growing technical skills.**
 
 ### 🔍 What I'm Currently Focused On:
 - 🛡️ Becoming a **Cybersecurity Analyst** (Learning via Google Cybersecurity Cert & TryHackMe)
