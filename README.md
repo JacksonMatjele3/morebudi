@@ -3,10 +3,15 @@
 
 ---
 
-🚀 I’m a **self-taught software developer** with a growing foundation in **cybersecurity**. I’m passionate about building real-world software solutions and solving complex security challenges.
+🚀 I’m a **software developer** with a growing foundation in **cybersecurity**. I’m passionate about building real-world software solutions and I highly value protecting digital assets for organizations and people they serve by ensuring a strong security posture through the CIA triad.
+
+### 💪🏾 Strengths
+- Analytical Thinker
+- Time Management
+- Growing Technical Skills
 
 ### 🔍 What I'm Currently Focused On:
-- 🛡️ Becoming a **Cybersecurity Architect** (Learning via TryHackMe & Google Cybersecurity Cert)
+- 🛡️ Becoming a **Cybersecurity Analyst** (Learning via Google Cybersecurity Cert & TryHackMe)
 - 💻 Building fullstack apps using **JavaScript**, **Node.js**, **React**, and **C#**
 - 🧠 Strengthening my fundamentals in **networking**, **Linux**, and **cloud security**
 
@@ -27,46 +32,38 @@
 ---
 
 ### 🛠️ Featured Projects
-- 🔔 **Water Delivery Alert System**  
+- 🔔 **Water Delivery Alert System (In Progress)**  
   *A Node.js-based alert system using Twilio to send SMS notifications about water deliveries to local residents.*
 
-- 🤖 **AI Study Assistant**  
-  *A C# and ChatGPT-powered WPF app that helps high school learners understand concepts and generate question papers.*
-
-- 🔐 **TryHackMe Labs & Cybersecurity Challenges**  
+- 🔐 **TryHackMe Labs & Cybersecurity Challenges(In Progress)**  
   *Practicing offensive and defensive techniques to build a strong security foundation.*
 
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=morebudi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morebudi&layout=compact&theme=tokyonight" width="48%" />
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonMatjele3&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ### 🧠 Ongoing Learning
+- 🎓 Google Cybersecurity Professional Certificate (Coursera)
+- 🔐 TryHackMe: SOC Analyst Tier 1
 - 📘 "You Don't Know JS" (JavaScript mastery)
 - 📗 "The Road to React"
-- 🎓 Google Cybersecurity Professional Certificate (Coursera)
-- 🔐 TryHackMe: Blue team & Red team paths
-
----
-
-### 🙏 About Me
-- 🎯 I’m **goal-driven**, with a strong interest in solving problems that matter.
-- 🧱 I'm slowly rebuilding myself after battling weed addiction and depression — now committed to growth.
-- ✝️ I live by Colossians 3:23:  
-  _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/morebudi)](https://linkedin.com/in/morebudi)  
-✉️ Email: **morebudi@example.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/morebudi-matjele-8a7350219)](https://www.linkedin.com/in/morebudi-matjele-8a7350219)
+
+📧 Email: **papikimatjele@gmail.com**
 
 ---
+### I live by Colossians 3:23:✝️  
+  _"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."_
+
 
 <!-- Optional trophies -->
 <!--
