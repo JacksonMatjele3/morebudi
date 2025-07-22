@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Morebudi 👋</h1>
+<h2 align="center">Hello World, I'm Morebudi 👋</h2>
 <h3 align="center">Software Developer & Cybersecurity Analyst in Progress</h3>
 
 ---
